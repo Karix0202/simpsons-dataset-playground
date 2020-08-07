@@ -140,3 +140,4 @@ cython_debug/
 kaggle_simpson_testset/
 simpsons_dataset/
 models/
+plots/
